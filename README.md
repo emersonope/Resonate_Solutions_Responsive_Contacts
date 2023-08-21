@@ -31,7 +31,7 @@ npm init vite@latest contacts-app --template react
 ```
 
 ```
-cd frontend
+cd Resonate_Solutions_Responsive_Contacts
 ```
 
 ## Dependences used in the front end project:
