@@ -6,7 +6,7 @@ function Header() {
         <header>
             <div className="contacts-logo-container">
                 <Logo aria-label="Contacts-Logo"/>
-                <h1>DSMeta</h1>
+                <h1>Contacts App</h1>
                 <p>Desenvolvido por
                     <a href="https://www.linkedin.com/in/emersonope/">@emersonope</a>
                 </p>
